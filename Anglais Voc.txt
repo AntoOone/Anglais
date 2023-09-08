@@ -1,0 +1,15 @@
+#separator:tab
+#html:true
+#tags column:3
+subhead	sous-titre (d'un article)	
+headlines	les gros titres	
+the whole	dans l'ensemble	
+in inverted commas	entre guillemets	
+a quotation	une citation	
+a chart	un tableau	
+to find a clue	trouver un indice	
+to argue [=you] that...	avancer l'argument que	
+to contend that...	argumenter que	
+to depict smtg	décrire qqch	
+an account [=now] of...	un compte-rendu de...	
+to underline smtg	souligner qqch	
